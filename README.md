@@ -1,5 +1,5 @@
 # Recoil Hacks
- My experiments with hacking and modifying recoil. All builds were compiled on Ubuntu 16.04 and anything past that will fail.
+ My experiments with hacking and modifying recoil. All builds were compiled on Ubuntu 16.04 and anything past that will fail. When flashed this build worked smoothly with the
 
 
  # Current Contents
